@@ -1,5 +1,5 @@
 {
-    "MainRoot": "cmd/project",
+    "MainRoot": "tree/master/cmd/project",
     "MainPkgName": "project",
     "FirstParty": [
         "github.com"
