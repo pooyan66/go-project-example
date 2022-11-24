@@ -1,0 +1,7 @@
+{
+    "MainRoot": "cmd/project",
+    "MainPkgName": "project",
+    "FirstParty": [
+        "github.com"
+    ]
+}
